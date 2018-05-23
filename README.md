@@ -3,7 +3,9 @@
 **add to your libs**
 
 `yarn add color-disk` 
+
 -or-
+
 `npm install color-disk`
 
 **import to your project**
