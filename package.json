@@ -1,10 +1,11 @@
 {
     "name": "color-disk",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "import the colors",
     "main": "index.js",
     "repository": "https://github.com/Voyager-One/color-disk",
     "author": "voyagerone",
     "license": "MIT",
-    "private": false
+    "private": false,
+    "keywords": ["color", "react-native", "tool"]
 }
