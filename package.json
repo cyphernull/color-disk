@@ -1,0 +1,10 @@
+{
+  "name": "color-disk",
+  "version": "1.0.0",
+  "description": "import the colors",
+  "main": "index.js",
+  "repository": "https://github.com/Voyager-One/color-disk",
+  "author": "Eric Choo",
+  "license": "MIT",
+  "private": false
+}
