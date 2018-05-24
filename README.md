@@ -20,6 +20,17 @@ console.log(darkturquoise) // '#00CED1'
 It makes you manage colors much easier when using React Native or other project (CSS in JS).
 All the colors are followed by CSS standard.
 
+**Preview**
+
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_1.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_2.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_4.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_5.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_6.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_7.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/Snip20180524_8.png)
+![image text](https://github.com/Voyager-One/color-disk/blob/master/preview/屏幕快照%202018-05-24%2011.27.35.png)
+
 **All Colors**
 
 white - gray - black
