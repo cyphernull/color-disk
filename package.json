@@ -1,6 +1,6 @@
 {
     "name": "color-disk",
-    "version": "0.0.5",
+    "version": "1.0.0",
     "description": "import the colors",
     "main": "index.js",
     "repository": "https://github.com/Voyager-One/color-disk",
